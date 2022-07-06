@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anish2311
+- 👋 Hi, I’m Venkatesh, a class 10 student.
 - 👀 I’m interested in HTML, CSS, JavaScript and p5.js
 - 🌱 I’m currently learning p5.js
 
