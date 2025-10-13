@@ -1,4 +1,4 @@
-- 👋 Hi there. I’m Venkatesh, a class 12 student.
+- 👋 Hi there. I’m Venkatesh, a first year student at NITA.
 - 👀 I’m interested in creating interactive web pages using HTML, CSS and JavaScript. I'm also interested in solving problems provided by leetcode using python3.
 - 🌱 I’m currently learning about web servers and backend development.
 
