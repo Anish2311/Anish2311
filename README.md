@@ -1,6 +1,6 @@
-- 👋 Hi there. I’m Venkatesh, a first year student at NITA.
-- 👀 I’m interested in creating interactive web pages using HTML, CSS and JavaScript. I'm also interested in solving problems provided by leetcode using python3.
-- 🌱 I’m currently learning about web servers and backend development.
+- 👋 Hi there. I’m Venkatesh, a First-year B.Tech ECE student.
+- 👀 Focused on software development, with experience in React–FastAPI full-stack projects and strong foundations in data structures and algorithms.
+- 🌱 Currently exploring machine learning and deep learning concepts.
 
 <!---
 Anish2311/Anish2311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
